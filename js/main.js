@@ -48,7 +48,6 @@ btn.addEventListener("click", () => {
           .catch((err) => {
             console.error("Failed to copy text: ", err);
           });
-        return;
       }
     });
   });
