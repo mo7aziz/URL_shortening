@@ -39,7 +39,6 @@ btn.addEventListener("click", () => {
     navigator.clipboard.readText().then((text) => {
       if (text !== urlInput.value && text.trim() !== "") {
         this.select();
-
         // Use the Clipboard API to copy the text
         navigator.clipboard
           .writeText(this.value)
@@ -49,8 +48,8 @@ btn.addEventListener("click", () => {
           .catch((err) => {
             console.error("Failed to copy text: ", err);
           });
+        return;
       }
     });
-    return;
   });
 });
