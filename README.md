@@ -24,8 +24,8 @@ This project is a URL shortener application that integrates the Spoo.me API to s
 
 ## Built with
 
--HTML
--CSS
--JAVASCRIPT
--[Spoo.me API](https://spoo.me/api)
--[Font Awsome 6](https://fontawesome.com/)
+- HTML
+- CSS
+- JAVASCRIPT
+- [Spoo.me API](https://spoo.me/api)
+- [Font Awsome 6](https://fontawesome.com/)
