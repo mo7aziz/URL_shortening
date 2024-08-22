@@ -13,6 +13,7 @@ This project is a URL shortener application that integrates the Spoo.me API to s
 - Integration with the Spoo.me API for URL shortening.
 - Form validation to ensure accurate input.
 - One-click copy functionality for easy sharing of shortened links.
+- Popups for error and copying the shortened links.
 
 ## Screenshot
 
@@ -28,4 +29,5 @@ This project is a URL shortener application that integrates the Spoo.me API to s
 - CSS
 - JAVASCRIPT
 - [Spoo.me API](https://spoo.me/api)
-- [Font Awsome 6](https://fontawesome.com/)
+- [Font Awsome 6](https://fontawesome.com/) For icons
+- [sweetalert js](https://sweetalert.js.org/) For Popups
