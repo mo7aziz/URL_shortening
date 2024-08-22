@@ -51,5 +51,6 @@ btn.addEventListener("click", () => {
           });
       }
     });
+    return;
   });
 });
