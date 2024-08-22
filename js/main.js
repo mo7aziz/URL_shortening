@@ -37,7 +37,7 @@ btn.addEventListener("click", () => {
 
   urlInput.addEventListener("click", function () {
     navigator.clipboard.readText().then((text) => {
-      if (text !== urlInput.value) {
+      if (text !== urlInput.value && text.trim() !== "") {
         this.select();
 
         // Use the Clipboard API to copy the text
