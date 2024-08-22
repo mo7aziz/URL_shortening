@@ -21,7 +21,7 @@ This project is a URL shortener application that integrates the Spoo.me API to s
 
 ## Links
 
-- Live Site URL: https://mo7aziz.github.io/URL_shortening/](https://mo7aziz.github.io/URL_shortening/)
+- Live Site URL: [https://mo7aziz.github.io/URL_shortening/](https://mo7aziz.github.io/URL_shortening/)
 
 ## Built with
 
